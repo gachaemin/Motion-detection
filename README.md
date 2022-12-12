@@ -5,7 +5,7 @@ Using Python Open CV , it implements the computer's built-in camera and detects 
 
 ### Results:
 ---
-<img width="80%" src="https://user-images.githubusercontent.com/112791488/207103216-dcb00f0b-80d5-4220-9305-a4b90dd0ea32.gif"
+![result](https://user-images.githubusercontent.com/112791488/207103216-dcb00f0b-80d5-4220-9305-a4b90dd0ea32.gif)
 
 ### Requirements: (with versions i tested on)
 ---
